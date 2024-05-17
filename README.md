@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-  <img src="../data-science-portfolio/images/data-science-portifolio-readme.jpg" alt="👋 Hi there! I'm Guilherme Cavalheri)" title="👋 Hi there! I'm Guilherme Cavalheri)"/>
+  <img src="images/data-science-portifolio-readme.jpg" alt="👋 Hi there! I'm Guilherme Cavalheri)" title="👋 Hi there! I'm Guilherme Cavalheri)"/>
 </div>
 
 <div align="center">
