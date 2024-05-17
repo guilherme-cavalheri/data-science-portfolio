@@ -1,6 +1,19 @@
+
+<div style="text-align: center;">
+  <img src="../data-science-portfolio/images/data-science-portifolio-readme.jpg" alt="👋 Hi there! I'm Guilherme Cavalheri)" title="👋 Hi there! I'm Guilherme Cavalheri)"/>
+</div>
+
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cavalheri/)](https://www.linkedin.com/in/guilherme-cavalheri/)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/guicavalheri)
+</div>
+
+
 # Portfólio de Data Science
 
 Bem-vindo ao meu repositório de portfólio! Este repositório contém uma coleção dos meus trabalhos. Aqui você encontrará diversos projetos que demonstram minhas habilidades e conhecimentos em machine learning, processamento de dados, análise estatística, web scraping e outras áreas relacionadas.
+
 
 ## Estrutura do Repositório
 
