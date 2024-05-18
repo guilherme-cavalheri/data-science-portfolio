@@ -13,6 +13,7 @@ scikit-learn = "^1.4.2"
 duckdb = "^0.10.2"
 plotly = "^5.22.0"
 nbformat = "5.1.2"
+requests = "^2.31.0"
 
 
 [tool.poetry.group.dev.dependencies]
